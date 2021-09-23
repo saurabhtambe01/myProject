@@ -1,3 +1,4 @@
 <?php
-	echo "Hellow world";
+echo "Hellow world";
+echo "Chutiya giri";
 ?>
